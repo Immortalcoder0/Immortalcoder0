@@ -22,9 +22,9 @@ Stay updated for Upcoming Projects. **Something crazy is going to come soon !!**
 ## 💻 Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-3d5c5c?style=plastic&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/%20Github-black?style=flat&logo=Github&logoColor=00000&color=4d004d&link=https%3A%2F%2Fgithub.com%2FImmortal-coder0)
+![GitHub](https://img.shields.io/badge/%20Github-black?style=plastic&logo=Github&logoColor=00000&color=140033&link=https%3A%2F%2Fgithub.com%2FImmortal-coder0)
 
 
 ## 📈 GitHub Stats
