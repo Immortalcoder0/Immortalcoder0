@@ -37,5 +37,4 @@ I’d love to hear from you, whether it’s for project collaboration, open-sour
 
 - [![Subhankar Das](https://img.shields.io/badge/LinkedIn-b3b3ff?style=flat&logo=LinkedIn&logoColor=ffffff&color=007acc)](www.linkedin.com/in/sd000)
 - [![@subhankardas000](https://img.shields.io/badge/%20Twitter%20-ffffff?style=flat&logo=X&logoColor=ffffff&color=000000)](https://x.com/subhankardas000)
-- [!(https://img.shields.io/badge/Email-white?style=plastic&logo=gmail&color=silver)](being.subh90@hmail.com)
 ---------
