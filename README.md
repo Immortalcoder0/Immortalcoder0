@@ -35,14 +35,17 @@ Stay updated for Upcoming Projects. **Something crazy is going to come soon !!**
 
 
 ## 📈 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Immortal-coder0&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Immortal-coder0&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Immortal-coder0&limit=5&hide_border=true&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ## 🔗 Let's Connect
-
 I’d love to hear from you, whether it’s for project collaboration, open-source contribution, or just a tech chat!
 
 - [![Subhankar Das](https://img.shields.io/badge/LinkedIn-b3b3ff?style=flat&logo=LinkedIn&logoColor=ffffff&color=007acc)](www.linkedin.com/in/sd000)
 - [![@subhankardas000](https://img.shields.io/badge/%20Twitter%20-ffffff?style=flat&logo=X&logoColor=ffffff&color=000000)](https://x.com/subhankardas000)
 - **Email**: [being.subh90@gmail.com](mailto:being.subh90@gmail.com)
 ---------
+[![](https://visitcount.itsvg.in/api?id=Immortal-coder0&icon=1&color=5)](https://visitcount.itsvg.in)
