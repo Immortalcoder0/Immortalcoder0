@@ -35,7 +35,7 @@ Stay updated for Upcoming Projects. **Something crazy is going to come soon !!**
 
 
 ## 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Immortal-coder0&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Immortal-coder0&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Immortal-coder0&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 ### 🔝 Top Contributed Repo
