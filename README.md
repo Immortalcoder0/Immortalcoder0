@@ -44,7 +44,7 @@ Stay updated for Upcoming Projects. **Something crazy is going to come soon !!**
 ## 🔗 Let's Connect
 I’d love to hear from you, whether it’s for project collaboration, open-source contribution, or just a tech chat!
 
-- [![Subhankar Das](https://img.shields.io/badge/LinkedIn-b3b3ff?style=flat&logo=LinkedIn&logoColor=ffffff&color=007acc)](www.linkedin.com/in/sd000)
+- [![Subhankar Das](https://img.shields.io/badge/LinkedIn-b3b3ff?style=flat&logo=LinkedIn&logoColor=ffffff&color=007acc)](https://linkedin.com/in/sd000/)
 - [![@subhankardas000](https://img.shields.io/badge/%20Twitter%20-ffffff?style=flat&logo=X&logoColor=ffffff&color=000000)](https://x.com/subhankardas000)
 - **Email**: [being.subh90@gmail.com](mailto:being.subh90@gmail.com)
 ---------
