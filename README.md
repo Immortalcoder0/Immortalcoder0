@@ -36,12 +36,12 @@ Stay updated for Upcoming Projects. **Something crazy is going to come soon !!**
 
 
 ## 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Immortal-coder0&show_icons=true&theme=react&include_all_commits=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Immortal-coder0&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Immortal-coder0&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Immortalcoder0&show_icons=true&theme=react&include_all_commits=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Immortalcoder0&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Immortalcoder0&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Immortal-coder0&limit=5&hide_border=false&theme=react&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Immortalcoder0&limit=5&hide_border=false&theme=react&combine_all_yearly_contributions=true)
 
 ## 🔗 Let's Connect
 I’d love to hear from you, whether it’s for project collaboration, open-source contribution, or just a tech chat!
