@@ -28,14 +28,23 @@ Stay updated for Upcoming Projects. **Something crazy is going to come soon !!**
 
 ## 🔧 Technologies & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-3d5c5c?style=plastic&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/%20Github-black?style=plastic&logo=Github&logoColor=00000&color=140033&link=https%3A%2F%2Fgithub.com%2FImmortal-coder0)
+- **Front-End Development**:
 
+     <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML"/> <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS"/> 
 
+- **Languages**:
 
-## 📈 GitHub Stats
+     <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C"/>  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++"/>
+
+- **Softwares and Tools**:
+  
+     <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS code"/>   <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="GIT"/>   ![My Skills](https://skillicons.dev/icons?i=github)  
+
+- **Operating Systems**:
+  
+     <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" title="Android"/> <img width=50 src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" title="Windows">
+  
+- ## 📈 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Immortalcoder0&show_icons=true&theme=react&include_all_commits=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Immortalcoder0&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Immortalcoder0&theme=react&hide_border=false&no-bg=true&no-frame=true&langs_count=10)
@@ -52,3 +61,5 @@ I’d love to hear from you, whether it’s for project collaboration, open-sour
 - **Email**: [being.subh90@gmail.com](mailto:being.subh90@gmail.com)
 ---------
 [![](https://visitcount.itsvg.in/api?id=Immortal-coder0&icon=1&color=5)](https://visitcount.itsvg.in)
+
+          
