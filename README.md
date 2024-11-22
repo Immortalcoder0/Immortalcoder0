@@ -1,4 +1,4 @@
-# 🌟 HI There, I am Subhankar Das
+# 🌟 Welcome to my Github
 
 Hey there! 👋 I'm Subhankar Das aka @Immortal-coder0 , a passionate **B.Tech student in Computer Science and Engineering**, specializing in **Artificial Intelligence and Machine Learning**. Currently, I’m on an exciting journey, diving deep into open-source contributions and building projects that push my boundaries and fuel my growth. Thank you for stopping by, and I hope you enjoy exploring my repositories!
 
