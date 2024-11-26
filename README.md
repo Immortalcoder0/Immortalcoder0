@@ -45,7 +45,7 @@ Stay updated for Upcoming Projects. **Something crazy is going to come soon !!**
      <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" title="Android"/> <img width=50 src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" title="Windows">
   
 - ## 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Immortalcoder0&show_icons=true&theme=react&include_all_commits=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Immortalcoder0&theme=react)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Immortalcoder0&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Immortalcoder0&theme=react&hide_border=false&no-bg=true&no-frame=true&langs_count=10)
 
