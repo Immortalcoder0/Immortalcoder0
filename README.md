@@ -38,19 +38,25 @@ Stay updated for Upcoming Projects. **Something crazy is going to come soon !!**
 
 - **Softwares and Tools**:
   
-     <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS code"/>   <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="GIT"/>   ![My Skills](https://skillicons.dev/icons?i=github)  
-
+     <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS code"/>   <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="GIT"/>  <img src="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/b.png#gh-light-mode-only" height="50" width="50"/>  <img src="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/w.png#gh-dark-mode-only" height="50" width="50"/>  
 - **Operating Systems**:
   
      <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" title="Android"/> <img width=50 src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" title="Windows">
   
 - ## 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Immortalcoder0&theme=react)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Immortalcoder0&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Immortalcoder0&theme=react&hide_border=false&no-bg=true&no-frame=true&langs_count=10)
+  
+[![](https://github-readme-stats.vercel.app/api?username=Immortalcoder0&theme=react#gh-dark-mode-only)](https://github.com/Immortalcoder0/github-readme-stats#gh-dark-mode-only)  
+[![](https://github-readme-stats.vercel.app/api?username=Immortalcoder0&theme=swift#gh-light-mode-only)](https://github.com/Immortalcoder0/github-readme-stats#gh-light-mode-only)
+
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Immortalcoder0&theme=react&hide_border=false#gh-dark-mode-only)](https://github.com/Immortalcoder0/github-readme-stats#gh-dark-mode-only) 
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Immortalcoder0&theme=swift&hide_border=false#gh-light-mode-only)](https://github.com/Immortalcoder0/github-readme-stats#gh-light-mode-only)<br/>
+
+[![](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Immortalcoder0&theme=react&hide_border=false&no-bg=true&no-frame=true&langs_count=10#gh-dark-mode-only)](https://github.com/Immortalcoder0/github-readme-stats#gh-dark-mode-only)
+[![](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Immortalcoder0&theme=swift&hide_border=false&no-bg=true&no-frame=true&langs_count=10#gh-light-mode-only)](https://github.com/Immortalcoder0/github-readme-stats#gh-light-mode-only)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Immortalcoder0&limit=5&hide_border=false&theme=react&combine_all_yearly_contributions=true)
+[![](https://github-contributor-stats.vercel.app/api?username=Immortalcoder0&limit=5&hide_border=false&theme=react&combine_all_yearly_contributions=true#gh-dark-mode-only)](https://github.com/Immortalcoder0/github-readme-stats#gh-dark-mode-only)
+[![](https://github-contributor-stats.vercel.app/api?username=Immortalcoder0&limit=5&hide_border=false&theme=swift&combine_all_yearly_contributions=true#gh-light-mode-only)](https://github.com/Immortalcoder0/github-readme-stats#gh-light-mode-only)
 
 ## 🔗 Let's Connect
 I’d love to hear from you, whether it’s for project collaboration, open-source contribution, or just a tech chat!
@@ -61,5 +67,3 @@ I’d love to hear from you, whether it’s for project collaboration, open-sour
 - **Email**: [being.subh90@gmail.com](mailto:being.subh90@gmail.com)
 ---------
 [![](https://visitcount.itsvg.in/api?id=Immortal-coder0&icon=1&color=5)](https://visitcount.itsvg.in)
-
-          
