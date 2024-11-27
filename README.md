@@ -45,8 +45,8 @@ Stay updated for Upcoming Projects. **Something crazy is going to come soon !!**
   
 - ## 📈 GitHub Stats
   
-[![](https://github-readme-stats.vercel.app/api?username=Immortalcoder0&theme=react&include_all_commits=true#gh-dark-mode-only)](https://github.com/Immortalcoder0/github-readme-stats#gh-dark-mode-only)  
-[![](https://github-readme-stats.vercel.app/api?username=Immortalcoder0&theme=swift&include_all_commits=true#gh-light-mode-only)](https://github.com/Immortalcoder0/github-readme-stats#gh-light-mode-only)
+[![](https://github-readme-stats.vercel.app/api?username=Immortalcoder0&theme=react&show_icons=true&include_all_commits=true#gh-dark-mode-only)](https://github.com/Immortalcoder0/github-readme-stats#gh-dark-mode-only)  
+[![](https://github-readme-stats.vercel.app/api?username=Immortalcoder0&theme=swift&show_icons=true&include_all_commits=true#gh-light-mode-only)](https://github.com/Immortalcoder0/github-readme-stats#gh-light-mode-only)
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Immortalcoder0&theme=react&hide_border=false#gh-dark-mode-only)](https://github.com/Immortalcoder0/github-readme-stats#gh-dark-mode-only) 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Immortalcoder0&theme=swift&hide_border=false#gh-light-mode-only)](https://github.com/Immortalcoder0/github-readme-stats#gh-light-mode-only)<br/>
