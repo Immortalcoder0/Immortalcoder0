@@ -45,12 +45,12 @@ Stay updated for Upcoming Projects. **Something crazy is going to come soon !!**
   
 - ## 📈 GitHub Stats
   
-[![](https://github-readme-stats.vercel.app/api?username=Immortalcoder0&theme=react&card_width=492&show_icons=true&include_all_commits=true#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=Immortalcoder0&theme=react&card_width=492&show_icons=true&include_all_commits=true#gh-dark-mode-only)
+[![](https://github-readme-stats.vercel.app/api?username=Immortalcoder0&show_icons=true&theme=react&card_width=492&include_all_commits=true#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=Immortalcoder0&theme=react&card_width=492&show_icons=true&include_all_commits=true#gh-dark-mode-only)
 [![](https://github-readme-stats.vercel.app/api?username=Immortalcoder0&theme=swift&show_icons=true&include_all_commits=true&card_width=492#gh-light-mode-only)](https://github-readme-stats.vercel.app/api?username=Immortalcoder0&theme=swift&show_icons=true&include_all_commits=true&card_width=492#gh-light-mode-only)
 
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Immortalcoder0&theme=react&hide_border=false&card_width=492#gh-dark-mode-only)](https://github-readme-streak-stats.herokuapp.com/?user=Immortalcoder0&theme=react&hide_border=false&card_width=492#gh-dark-mode-only) 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Immortalcoder0&theme=swift&hide_border=false&card_width=492#gh-light-mode-only)](https://github-readme-streak-stats.herokuapp.com/?user=Immortalcoder0&theme=swift&hide_border=false&card_width=492#gh-light-mode-only)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Immortalcoder0&hide_border=false&theme=react&card_width=492#gh-dark-mode-only)](https://github-readme-streak-stats.herokuapp.com/?user=Immortalcoder0&theme=react&hide_border=false&card_width=492#gh-dark-mode-only) 
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Immortalcoder0&hide_border=false&theme=swift&hide_border=false&card_width=492#gh-light-mode-only)](https://github-readme-streak-stats.herokuapp.com/?user=Immortalcoder0&theme=swift&hide_border=false&card_width=492#gh-light-mode-only)
 
 [![](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Immortalcoder0&theme=react&hide_border=false&no-bg=true&no-frame=true&langs_count=10&card_width=492#gh-dark-mode-only)](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Immortalcoder0&theme=react&hide_border=false&no-bg=true&no-frame=true&langs_count=10&card_width=492#gh-dark-mode-only)
 [![](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Immortalcoder0&theme=swift&hide_border=false&no-bg=true&no-frame=true&langs_count=10&card_width=492#gh-light-mode-only)](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Immortalcoder0&theme=swift&hide_border=false&no-bg=true&no-frame=true&langs_count=10&card_width=492#gh-light-mode-only)
