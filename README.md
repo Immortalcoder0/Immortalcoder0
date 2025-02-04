@@ -29,8 +29,14 @@ Stay updated for Upcoming Projects. **Something crazy is going to come soon !!**
 ## 🔧 Technologies & Tools
 
 - **Front-End Development**:
-
+  
      <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML"/> <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS"/> 
+            <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JAVASCRIPT" />
+
+- **Back-End Development**:
+
+  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node js"/> <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JAVASCRIPT" />
+          
 
 - **Languages**:
 
@@ -38,7 +44,13 @@ Stay updated for Upcoming Projects. **Something crazy is going to come soon !!**
 
 - **Softwares and Tools**:
   
-     <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS code"/>   <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="GIT"/>  <img src="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/b.png#gh-light-mode-only" height="50" width="50"/>  <img src="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/w.png#gh-dark-mode-only" height="50" width="50"/>  
+     <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS code"/>   <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="GIT"/>  <img src="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/b.png#gh-light-mode-only" height="50" width="50"/>  <img src="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/w.png#gh-dark-mode-only" height="50" width="50"/>  <img width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" title="Node Package Mnaager" />
+    <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+      <img width=65 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" />
+          
+          
+          
+          
 - **Operating Systems**:
   
      <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" title="Android"/> <img width=50 src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" title="Windows">
@@ -68,4 +80,3 @@ I’d love to hear from you, whether it’s for project collaboration, open-sour
 - [![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?styale=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28272330/immortal-coder)
 - **Email**: [being.subh90@gmail.com](mailto:being.subh90@gmail.com)
 ---------
-[![](https://visitcount.itsvg.in/api?id=Immortal-coder0&icon=1&color=5)](https://visitcount.itsvg.in)
